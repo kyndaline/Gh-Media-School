@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GH media school</string>
+    <string name="shin">shin</string>
+    <string name="TextView">shin</string>
+    <string name="GHNEDIDASCHOOL">GH MEDIA SCHOOL</string>
+    <string name="TODO">header_image</string>
+    <string name="Splash">Splash_screen</string>
+    <string name="Dashboard">Student_dashboard</string>
+    <string name="Image_heder">OnlinePage_header</string>
+    <string name="powered_By">Ads</string>
+    <string name="textview">TextView</string>
+    <string name="Gh_Cosmetology">Gh_Cosmetology</string>
+    <string name="IndexNumber">Index Number</string>
+    <string name="PassWord">Password</string>
+    <string name="RememberMe">Remember Me</string>
+    <string name="Forgot_Password">Forgot Password</string>
+    <string name="Log_in">Log In</string>
+    <string name="Register">Register</string>
+    <string name="Full_Name">Full Name</string>
+    <string name="Email">Email</string>
+    <string name="Confirm_Password">Confirm Password</string>
+    <string name="Already_Member">Already a Member?</string>
+    <string name="Not_A_Member">Not a Member?</string>
+    <string name="powered">Powered By Shindra Innovations</string>
+
+
+</resources>
